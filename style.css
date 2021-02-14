@@ -1,0 +1,12 @@
+.content {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    min-height: 100vh;
+    font-size: 48px;
+    background: black;
+    background-size: cover;
+    color: rgb(255, 238, 0);
+}
